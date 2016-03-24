@@ -1,0 +1,13 @@
+OpenVPN STATISTICS
+Updated,Tue Dec 29 10:44:53 2015
+TUN/TAP read bytes,13215
+TUN/TAP write bytes,4536
+TCP/UDP read bytes,24122
+TCP/UDP write bytes,15350
+Auth read bytes,5236
+pre-compress bytes,11093
+post-compress bytes,9216
+pre-decompress bytes,1167
+post-decompress bytes,2640
+TAP-WIN32 driver status,"(null)"
+END

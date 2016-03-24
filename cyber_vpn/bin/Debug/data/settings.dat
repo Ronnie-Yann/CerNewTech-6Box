@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<Set xmlns="http://prothemes.biz/Set.xsd">
+  <options>
+    <username>ceshi2015</username>
+    <password>ipv6daohang</password>
+    <landing_page>True</landing_page>
+    <startup>False</startup>
+    <lport>80</lport>
+    <tcprport>80</tcprport>
+    <notify>True</notify>
+    <page>http://www.ipv6daohang.com</page>
+    <udprport>80</udprport>
+    <ping>False</ping>
+  </options>
+</Set>

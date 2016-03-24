@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cybervpn>
+  <tcp>
+  
+    <data>
+      <name>China-EDU</name>   
+      <ip>222.28.155.25</ip>          
+      <ca>ca.crt</ca>  
+    </data>
+    
+    <data>
+      <name>China-CT</name>
+      <ip>118.186.63.251</ip>
+      <ca>ca.crt</ca>  
+    </data>
+
+     <data>
+      <name>China-CU</name>
+      <ip>118.186.63.253</ip>
+      <ca>ca.crt</ca>  
+    </data>
+    
+  </tcp>
+</cybervpn>
